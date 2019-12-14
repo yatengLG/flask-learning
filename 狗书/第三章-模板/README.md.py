@@ -117,7 +117,7 @@ Jinja2 提供了多种控制结构，可用来改变模板的渲染流程。
 {% endblock %}
 ```
 
-extends 指令声明这个模板衍生自 base.html 
+extends 指令声明这个模板衍生自 base.html
 值得注意的是，由于head块在基模板中不是空的，所以需要使用super()获取原先的内容.
 
 ## 3.2 使用Flask-Bootstrap 集成 Bootstrap
@@ -160,7 +160,7 @@ def internal_server_error(e):
 为了避免这些问题，Flask 提供了 url_for() 辅助函数，它可以使用程序 URL 映射中保存
 的信息生成 URL.
 
-使用 url_for() 生成动态地址时，将动态部分作为关键字参数传入。例如，url_for 
+使用 url_for() 生成动态地址时，将动态部分作为关键字参数传入。例如，url_for
 ('user', name='john', _external=True) 的返回结果是 http://localhost:5000/user/john。
 
 传入 url_for() 的关键字参数不仅限于动态路由中的参数。函数能将任何额外参数添加到
