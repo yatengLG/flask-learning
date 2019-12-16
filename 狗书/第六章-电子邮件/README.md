@@ -38,4 +38,6 @@ from flask.ext.mail import Mail
 mail = Mail(app)
 ```
 
-**这部分没写完**
+这部分更新较少，只在hello.py中做出部分修改。
+在hello.py中配置好邮件设置，在新用户登录后，即会发送一个邮件。
+详情见hello.py
