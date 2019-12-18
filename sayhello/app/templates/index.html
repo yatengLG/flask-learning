@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+<div style="float">
+{% block form_place %}
+    {{ wtf.quick_form(form) }}
+{% endblock %}
+</div>
+
+{% block content %}
+    <h5> 共 {{ messages|length }} 条信息
+        <strong class="float-right">
+            <a href="#bottom" title="Go Bottom">&darr;</a>
+        </strong>
+    </h5>
+
+    <div class="list-group">
+        {% for message in messages %}
+            <a class="list-group-item list-group-item-action flex-column">
+                <div class="d-flex w-100 justify-content-between">
+                    <h4 class="mb-1 text-success">{{ message.name }}
+                        <small class="text-muted"> #{{ loop.revindex }}</small>
+                        <small class="text-right text-success pull-right"
+                               title="发布于utc时间 {{ message.timestamp.strftime('%Y-%m-%dT%H:%M:%SZ') }}">
+                            {{ moment(message.timestamp).fromNow(refresh=True) }}
+{#                            {{ moment(message.timestamp).format('LLL') }}#}
+                        </small>
+                    </h4>
+                </div>
+                <p class="mb-1">{{ message.content }}</p>
+            </a>
+        {% endfor %}
+    </div>
+{% endblock %}
+
+{% block footer %}
+    <small class="text-center" style="color: black">2019 /
+        <a title="flask学习，李辉狼书例子"> by LG / </a>
+        <a href="https://github.com/yatengLG" title="欢迎star,fork">Github</a>
+    </small>
+{% endblock %}

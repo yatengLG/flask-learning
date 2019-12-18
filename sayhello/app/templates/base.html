@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang='en' >
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>{% block title %}Say Hello!{% endblock %}</title>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    {{ moment.include_moment() }}
+    <!--使用中文,默认是英语的-->
+    {{ moment.lang("zh-CN") }}
+</head>
+
+<main class="container">
+    <header>
+        {% block header %}
+        <h1 class="text-center display-4">
+            <a href="" class="text-success">
+                <strong>
+                    SayHello
+                </strong>
+            </a>
+            <small style="font-size: 24px" class="text-muted">
+                to the world
+            </small>
+
+        </h1>
+        {% endblock %}
+    </header>
+
+    {% block form_place %}
+    {% endblock %}
+
+    {% for message in get_flashed_messages() %}
+    <div class="alert alert-info">
+        <button type="button" class="close" data-dismiss="alert">
+            &times;
+        </button>
+        {{ message }}
+    </div>
+    {% endfor %}
+    {% block content %}{% endblock %}
+    <footer class="text-center">
+        {% block footer %}{% endblock %}
+        <p><a id="bottom" href="" title="Go Top">&uarr;</a></p>
+    </footer>
+</main>
