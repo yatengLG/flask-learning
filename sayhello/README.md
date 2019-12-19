@@ -1,6 +1,6 @@
 # SayHello 留言板
 
-参考自李辉狼书例子。但是是在看完狗书之后自己写的。如有错误，请指正
+参考自李辉狼书例子。但是是在学习完狗书之后自己写的。如有错误，请指正
 
 ![show](imgs/1.png)
 ## 安装
@@ -32,14 +32,12 @@
     具体看终端提示。
     ![2](imgs/2.png)
     
-~~3. 如没有数据库，则新建数据库(默认flask-learning/sayhello/app/ 下已存在数据库 data-dev.sqlite)~~
+    
+3. 如没有数据库，则新建数据库(默认flask-learning/sayhello/app/ 下已存在数据库 data-dev.sqlite)
 
     ```text
     python manage.py shell
-    
     >> db
-    
     >> db.create_all()
-    
     ```
  
