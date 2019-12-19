@@ -23,19 +23,22 @@
 
 
 1. 运行项目
-```text
-python manage.py runserver
-```
+    ```text
+    python manage.py runserver
+    ```
 
 2. 打开本地端口5000
 
-~~1. 如没有数据库，则新建数据库(默认flask-learning/sayhello/app/ 下已存在数据库 data-dev.sqlite)~~
-```text
-python manage.py shell
-
->> db
-
->> db.create_all()
-
-```
+    具体看终端提示。
+    ![2](imgs/2.png)
+    
+~~3. 如没有数据库，则新建数据库(默认flask-learning/sayhello/app/ 下已存在数据库 data-dev.sqlite)~~
+    ```text
+    python manage.py shell
+    
+    >> db
+    
+    >> db.create_all()
+    
+    ```
  
