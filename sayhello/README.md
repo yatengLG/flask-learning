@@ -33,6 +33,7 @@
     ![2](imgs/2.png)
     
 ~~3. 如没有数据库，则新建数据库(默认flask-learning/sayhello/app/ 下已存在数据库 data-dev.sqlite)~~
+
     ```text
     python manage.py shell
     

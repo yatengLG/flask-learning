@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c289b45b-c2c5-4f79-8c69-e0a58eb4827d" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/email.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/main/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/main/errors.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/main/forms.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/main/views.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/templates/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/templates/base.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/templates/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/templates/user.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/flask学习.iml" afterPath="$PROJECT_DIR$/.idea/flask学习.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/README.md" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/README.md" />
-      <change beforePath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/config.py" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/config.py" />
-      <change beforePath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/manage.py" afterPath="$PROJECT_DIR$/狗书/第七章-大型程序的结构/manage.py" />
+      <change beforePath="$PROJECT_DIR$/sayhello/README.md" afterPath="$PROJECT_DIR$/sayhello/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,51 +31,20 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="data-dev.sqlite" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="data-dev.sqlite" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="data-dev.sqlite" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="data-dev.sqlite" type="feb32156:DbDataSourceImpl" />
-        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/狗书/第七章-大型程序的结构/README.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sayhello/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="693">
-                <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+              <first_editor relative-caret-position="501">
+                <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/狗书/第七章-大型程序的结构/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -131,6 +83,7 @@
         <option value="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/email.py" />
         <option value="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/main/views.py" />
         <option value="$PROJECT_DIR$/狗书/第七章-大型程序的结构/config.py" />
+        <option value="$PROJECT_DIR$/sayhello/README.md" />
       </list>
     </option>
   </component>
@@ -172,20 +125,13 @@
             <path>
               <item name="flask-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="狗书" type="462c0819:PsiDirectoryNode" />
+              <item name="sayhello" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flask-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="狗书" type="462c0819:PsiDirectoryNode" />
-              <item name="第七章-大型程序的结构" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="狗书" type="462c0819:PsiDirectoryNode" />
-              <item name="第七章-大型程序的结构" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sayhello" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,21 +144,22 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/狗书/第七章-大型程序的结构/data-dev.sqlite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app" />
-      <recent name="$PROJECT_DIR$/狗书/第七章-大型程序的结构" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app" />
       <recent name="$PROJECT_DIR$/狗书/第六章-电子邮件" />
       <recent name="$PROJECT_DIR$/狗书/第五章-数据库" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sayhello/imgs" />
+      <recent name="$PROJECT_DIR$/狗书/第七章-大型程序的结构/app" />
+      <recent name="$PROJECT_DIR$/狗书/第七章-大型程序的结构" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -353,20 +300,18 @@
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
-    <list size="5">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.config" />
-      <item index="1" class="java.lang.String" itemvalue="Python.hello (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="3" class="java.lang.String" itemvalue="Python.errors" />
-      <item index="4" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="2" class="java.lang.String" itemvalue="Python.errors" />
+      <item index="3" class="java.lang.String" itemvalue="Python.manage" />
     </list>
     <recent_temporary>
-      <list size="5">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Python.manage" />
         <item index="1" class="java.lang.String" itemvalue="Python.errors" />
         <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="3" class="java.lang.String" itemvalue="Python.hello (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.config" />
+        <item index="3" class="java.lang.String" itemvalue="Python.config" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +353,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576485816534</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1576719675152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576719675152</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Default Changelist">
+      <created>1576719934202</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576719934202</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -421,9 +380,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14536741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14696486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24227902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24227902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -465,7 +424,8 @@
     <MESSAGE value="修改md文件" />
     <MESSAGE value="数据库、电子邮件 部分更新" />
     <MESSAGE value="电子邮件" />
-    <option name="LAST_COMMIT_MESSAGE" value="电子邮件" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -477,14 +437,30 @@
     <SUITE FILE_PATH="coverage/flask$Flask_____hello_py_.coverage" NAME="Flask (狗书/第二章-程序的基本结构/hello.py) Coverage Results" MODIFIED="1576299064685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/狗书/第七章-大型程序的结构/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3288">
+            <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/狗书/第七章-大型程序的结构/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/狗书/第五章-数据库/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1576477443367" expanded="true" signature="8449:8651" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -494,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="17" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -502,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,61 +484,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="das://src:table:/ea32e3b4/3f38350d-9c0f-47db-a168-27eb48f54f0e/main.roles">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/ea32e3b4/3f38350d-9c0f-47db-a168-27eb48f54f0e/main.roles">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://src:table:/ea32e3b4/3f38350d-9c0f-47db-a168-27eb48f54f0e/main.roles" />
+    <entry file="das://table:/ea32e3b4/3f38350d-9c0f-47db-a168-27eb48f54f0e/main.roles" />
     <entry file="file://$PROJECT_DIR$/狗书/第五章-数据库/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/ea32e3b4/3f38350d-9c0f-47db-a168-27eb48f54f0e/main.users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://table:/ea32e3b4/3f38350d-9c0f-47db-a168-27eb48f54f0e/main.users" />
     <entry file="file://$PROJECT_DIR$/狗书/第五章-数据库/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="404">
             <caret line="377" column="0" lean-forward="true" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
-            <folding>
-              <marker date="1576477443367" expanded="true" signature="8449:8651" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/测试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/测试.py" />
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/flask_mail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -577,7 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,24 +527,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="13" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="97" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/狗书/第六章-电子邮件/测试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/狗书/第六章-电子邮件/测试.py" />
     <entry file="file://$PROJECT_DIR$/狗书/第六章-电子邮件/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="428">
             <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -613,12 +546,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-888">
             <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-            <folding>
-              <marker date="1576460387139" expanded="true" signature="2583:2679" ph="..." />
-              <marker date="1576460387139" expanded="true" signature="5036:5304" ph="..." />
-              <marker date="1576460387139" expanded="true" signature="5122:5237" ph="..." />
-              <marker date="1576460387139" expanded="false" signature="5189:5196" ph="×" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -628,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding>
-            <element signature="e#41#74#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -646,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,16 +576,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#41#67#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/狗书/第七章-大型程序的结构/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="693">
+          <first_editor relative-caret-position="3288">
             <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -675,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="75" lean-forward="false" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,23 +601,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="das://src:table:/ea32e3b4/7b278f79-ac41-47bd-b0c6-075306ff0a1e/main.sqlite_master">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://src:table:/ea32e3b4/7b278f79-ac41-47bd-b0c6-075306ff0a1e/main.sqlite_master" />
     <entry file="file://$PROJECT_DIR$/狗书/第七章-大型程序的结构/app/main/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,9 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#41#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -725,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -733,9 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding>
-            <element signature="e#41#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,15 +644,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/狗书/第七章-大型程序的结构/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="432">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sayhello/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="501">
+            <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
